@@ -1,0 +1,116 @@
+[debug] [2020-03-02T23:00:25.366Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T23:00:25.368Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\thnls\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2020-03-02T23:00:25.368Z] CLI Version:   7.14.0
+[debug] [2020-03-02T23:00:25.368Z] Platform:      win32
+[debug] [2020-03-02T23:00:25.368Z] Node Version:  v12.13.0
+[debug] [2020-03-02T23:00:25.369Z] Time:          Mon Mar 02 2020 15:00:25 GMT-0800 (Pacific Standard Time)
+[debug] [2020-03-02T23:00:25.369Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T23:00:25.369Z] 
+[debug] [2020-03-02T23:00:25.377Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-02T23:00:25.377Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\thnls\Desktop\Projects\smoi\smoi-functions
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project.
+[debug] [2020-03-02T23:01:49.759Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T23:01:49.761Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\thnls\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2020-03-02T23:01:49.761Z] CLI Version:   7.14.0
+[debug] [2020-03-02T23:01:49.761Z] Platform:      win32
+[debug] [2020-03-02T23:01:49.761Z] Node Version:  v12.13.0
+[debug] [2020-03-02T23:01:49.762Z] Time:          Mon Mar 02 2020 15:01:49 GMT-0800 (Pacific Standard Time)
+[debug] [2020-03-02T23:01:49.762Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T23:01:49.762Z] 
+[debug] [2020-03-02T23:01:49.771Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-02T23:01:49.771Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\thnls\Desktop\Projects\smoi\smoi-functions
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project.
+[debug] [2020-03-02T23:02:19.348Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T23:02:19.351Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\thnls\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init functions
+[debug] [2020-03-02T23:02:19.351Z] CLI Version:   7.14.0
+[debug] [2020-03-02T23:02:19.351Z] Platform:      win32
+[debug] [2020-03-02T23:02:19.351Z] Node Version:  v12.13.0
+[debug] [2020-03-02T23:02:19.352Z] Time:          Mon Mar 02 2020 15:02:19 GMT-0800 (Pacific Standard Time)
+[debug] [2020-03-02T23:02:19.352Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T23:02:19.352Z] 
+[debug] [2020-03-02T23:02:19.360Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-02T23:02:19.361Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\thnls\Desktop\Projects\smoi\smoi-functions
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-03-02T23:02:35.503Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-03-02T23:02:35.503Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-03-02T23:02:35.704Z] <<< HTTP RESPONSE 200
+[debug] [2020-03-02T23:02:35.725Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?pageSize=100  
+ 
+[debug] [2020-03-02T23:02:36.069Z] <<< HTTP RESPONSE 200
+[info] i  Using project smoi-2972a (smoi)
+[info] 
+=== Functions Setup
+[info] 
+[info] A functions directory will be created in your project with a Node.js
+[info] package pre-configured. Functions can be deployed with firebase deploy.
+[info] 
+[debug] [2020-03-02T23:02:43.031Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-02T23:02:43.032Z] > authorizing via signed-in user
+[debug] [2020-03-02T23:02:43.033Z] [iam] checking project smoi-2972a for permissions ["firebase.projects.get"]
+[debug] [2020-03-02T23:02:43.033Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/smoi-2972a:testIamPermissions  
+
+[debug] [2020-03-02T23:02:43.384Z] <<< HTTP RESPONSE 200
+[debug] [2020-03-02T23:02:43.387Z] >>> HTTP REQUEST POST https://serviceusage.googleapis.com/v1/projects/smoi-2972a/services/cloudfunctions.googleapis.com:enable  
+ 
+[debug] [2020-03-02T23:02:43.388Z] >>> HTTP REQUEST POST https://serviceusage.googleapis.com/v1/projects/smoi-2972a/services/runtimeconfig.googleapis.com:enable  
+ 
+[debug] [2020-03-02T23:02:43.898Z] <<< HTTP RESPONSE 200
+[debug] [2020-03-02T23:02:43.931Z] <<< HTTP RESPONSE 200
+[info] +  Wrote functions/package.json
+[info] +  Wrote functions/tsconfig.json
+[info] +  Wrote functions/src/index.ts
+[info] +  Wrote functions/.gitignore
